@@ -1,0 +1,5 @@
+# 빌드디렉토리 제외
+build/
+
+# vscode설정파일제외
+.vscode/

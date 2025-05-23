@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/HomeView.qml</file>
+        <file>qml/ChannelSwitchesView.qml</file>
+        <file>qml/CallView.qml</file>
+        <file>qml/CallLineDisplay.qml</file>
+        <file>qml/MessageView.qml</file>
+        <file>qml/CameraView.qml</file>
+        <file>qml/VideoPlayerView.qml</file>
+    </qresource>
+</RCC>
